@@ -1,4 +1,8 @@
 # Custom-Exceptions-in-Java
+Name: Chris Wattles
+Course: Object Oriented Programming
+CRN: COP-3330C
+
 This project puts to practice the concepts surrounding creating and throwing custom exceptions in Java using FM Radio Stations.
 
     There are 3 main files to note:
